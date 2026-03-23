@@ -77,11 +77,7 @@ It will fetch and display Users and Todos from the GraphQL API
 Make sure the server is running before starting the client
 
 Default ports:
-Server: http://localhost:4000
+Server: http://localhost:8000
 Client: http://localhost:3000
 
 ---
-
-```
-If you want, I can also make a **more advanced README with badges, screenshots, and API query examples** 👍
-```
