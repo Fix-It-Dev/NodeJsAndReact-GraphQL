@@ -29,13 +29,14 @@ npm install -g yarn
 ```
 
 📥 Getting Started
+
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
-cd <project-folder>
+git clone <url-repo>
 ```
 
 ▶️ Run the Project
+
 🔹 Start Backend (Server)
 ```bash
 cd server
@@ -45,6 +46,7 @@ yarn start
 This starts the GraphQL server.
 
 🔹 Start Frontend (Client)
+
 Open a new terminal:
 ```bash
 cd client
@@ -54,9 +56,11 @@ yarn start
 This starts the React app in your browser.
 
 🌐 Usage
+
 Once both server and client are running:
 React app will open in browser
 It will fetch and display Users and Todos from the GraphQL API
+
 📁 Project Structure
 ```bash
 /server   → Node.js + Express + Apollo Server
@@ -64,7 +68,9 @@ It will fetch and display Users and Todos from the GraphQL API
 ```
 
 💡 Notes
+
 Make sure the server is running before starting the client
+
 Default ports:
 Server: http://localhost:4000
 Client: http://localhost:3000
