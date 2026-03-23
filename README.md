@@ -34,7 +34,7 @@ npm install -g yarn
 
 Clone the repository
 ```bash
-git clone <url-repo>
+git clone <repo-url>
 ```
 
 ▶️ Run the Project
