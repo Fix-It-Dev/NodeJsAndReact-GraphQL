@@ -63,11 +63,14 @@ Once both server and client are running:
 React app will open in browser
 It will fetch and display Users and Todos from the GraphQL API
 
+---
+
 📁 Project Structure
 ```bash
 /server   → Node.js + Express + Apollo Server
 /client   → React + Apollo Client
 ```
+---
 
 💡 Notes
 
