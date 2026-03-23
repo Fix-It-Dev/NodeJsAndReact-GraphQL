@@ -23,14 +23,16 @@ Make sure you have the following installed:
 - Node.js
 - npm (comes with Node.js)
 
+---
+
+## 📥 Getting Started
+
 Install Yarn globally:
 ```bash
 npm install -g yarn
 ```
 
-📥 Getting Started
-
-1. Clone the repository
+Clone the repository
 ```bash
 git clone <url-repo>
 ```
